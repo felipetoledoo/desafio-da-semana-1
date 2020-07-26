@@ -1,0 +1,80 @@
+img{
+    width: 100%;
+}
+
+body {
+    background-color: rgba(148, 148, 148, 0.788);
+}
+.card{
+    width:300px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: auto;
+}
+
+.foto{
+     color:blue; 
+}
+
+.cartao{
+    width: 20%;
+    text-align: center;
+    margin: auto;
+}
+
+.toque{
+    background-color: rgb(129, 12, 37);
+    text-align: end;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+    border: 3px solid rgb(0, 0, 0);
+    font-size: medium;
+    color: rgb(255, 51, 0);
+    position: left;
+    width: 95px;
+    height: 20px;
+}
+
+.estudos{
+    background-color: rgb(255, 51, 0);
+    font-size: 26px;
+    color: beige;
+    border: black 4px solid;
+    text-align: center;
+    font-family: cursive;
+    padding-top: 5px;
+}
+
+.texto{
+    background-color: rgb(255, 30, 75);
+    font-family: initial;
+    color: yellow;
+    border: wheat solid 4px;
+    margin: 0px;
+    text-align: justify;
+    overflow: hidden;
+    padding-left: 5px;
+    margin: 15px;
+}
+
+.logo{
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+}
+
+#informação{
+    background: 20px solid yellow;
+    text-decoration: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+    Verdana, sans-serif;
+    text-align: end;
+}
+
+.nome{
+    margin: 20px solid;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(255, 51, 0);
+    font-size: 25px;
+}
